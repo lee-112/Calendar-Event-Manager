@@ -1,11 +1,11 @@
 # **Calendar Event Manager**
-The Calendar Event Manager is a program designed to help you manage all of your weekly scheduled appointments, activities, and events.
+The Calendar Event Manager is an efficient program to help you manage all of your weekly appointments, activities, and events.
 
 ## **Background**
-This project was developed for my Programming Systems course at Portland State University. The purpose of this assignment was to develop and build a program that focused on the concept of object-oriented programming, hierarchy classes, and dynamic binding.
+This project was designed to demonstrate the use of object-oriented programming, hierarchy classes, and dynamic binding concepts.
 
 ## **How does it work**
-The program works by using a menu interface which allows for the creation, removal, updating, finding, and display of any saved events. 
+The program operates using a menu-based interface that enables the creation, removal, updating, finding, and display of all saved events.
 
 ## **How to run the program**
-First, ensure that you have GCC complier installed on your local system in order to compile and run the source code. Once GCC complier is installed, from your terminal simply compile the source code by running the g++ with the cpp files from the command line. Once complied run ./ from the command to execute the program.
+To use the Calendar Event Manager, ensure that you have GCC compiler installed on your system. Once installed, open your terminal and compile the source code by running the command "g++" followed by the cpp file names. Finally, execute the program by running "./" from the command line.
